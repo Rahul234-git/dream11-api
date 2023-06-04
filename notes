@@ -1,0 +1,93 @@
+{
+"commentary": 1,
+"competition":{
+  "abbr": "SCLT",
+  "category": "domestic",
+  "cid": 125424,
+  "country": "af",
+  "dateend": "2022-08-05",
+  "datestart": "2022-07-18",
+  "match_format": "t20",
+  "season":"2022",
+  "status": "result",
+  "title": "Shpageeza Cricket League",
+  "total_matches": "32",
+  "total_rounds": "0",
+  "total_teams": "8",
+  "type": "tournament"
+},
+"date_end": "2022-08-02 14:30:00",
+"date_end_ist": "2022-08-02 20:00:00",
+"date_start": "2022-08-02 04:30:00",
+"date_start_ist": "2022-08-02 10:00:00",
+"domestic": "1",
+"equation": "",
+"format": 6,
+"format_str": "T20",
+"game_state": 0,
+"game_state_str": "Default",
+"latest_inning_number": 2,
+"live": "",
+"match_dls_affected": "false",
+"match_id": 56524,
+"match_number":"0",
+"odds_available": "false",
+"pitch":{
+  "batting_condition": "",
+  "pace_bowling_condition": "",
+  "pitch_condition": "",
+  "spine_bowling_condition": ""
+},
+"pre_squad": "true",
+"presquad_time": "2022-08-01 23:01:26",
+"referee": "Zarab Shah Zaheer (Afghanistan)",
+"result": "BDD won by 6 runs.",
+"result_type":1,
+"short_title": "BDD vs SGT",
+"status": 2,
+"status_note": "Boost Defenders won by 6 runs.",
+"status_str": "Completed",
+"subtitle": "Qualifier 1",
+"teama":{
+  "logo_url": "https://images.entitysport.com/assets/uploads/2019/10/boost-32x32.jpg",
+  "name": "Kabul Eagles",
+  "overs": "5",
+  "scores": "72/0",
+  "scores_full": "72/0 (5 ov)",
+  "short_name": "KABUL",
+  "team_id": 15715
+  },
+"teamb":{
+  "logo_url": "https://images.entitysport.com/assets/uploads/2019/10/images-32x32.jpg",
+  "name": "Mis Ainak Knights",
+  "overs": "14",
+  "scores": "107/9",
+  "scores_full": "107/9 (14 ov)",
+  "short_name": "MAK",
+  "team_id": 15708
+  },
+"timestamp_end": 1659450600,
+"timestamp_start": 1659414600,
+"title": "Speen Ghar Tigers elected to bowl",
+"toss":{
+  "decision": 2,
+  "text": "Kabul Eagles elected to bowl",
+  "winner":15711
+  },
+"umpires": "Ahmed Shah Durrani (Afghanistan), Ahmed Shah Pakteen (Afghanistan), Farooq Khan (Afghanistan, TV)",
+"venue":{
+  "country": "Afghanistan",
+  "location": "Kabul",
+  "name": "Kabul International Cricket Stadium",
+  "timezone": "-12",
+  "venue_id": "2"
+  },
+"verified": "true",
+"verify_time": "2022-08-02 20:04:15",
+"wagon": 0,
+"weather":[],
+"win_margin": "6 runs.",
+"winning_team_id": 15714
+}
+
+
